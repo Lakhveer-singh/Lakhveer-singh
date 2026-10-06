@@ -5,6 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-lakhveersingh1698%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lakhveersingh1698@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakhveer-singh-virk/)
+[![Portfolio](https://lakhveer.my.canva.site/).
 
 </div>
 
