@@ -22,6 +22,10 @@
 
 ## Featured Projects
 
+### 🔎 RAG & Agentic AI Assistant (NVIDIA Annual Report)
+Hybrid-search RAG (FAISS + BM25 + reranking) and tool-using agent over a 175-page 10-K, improving Recall@5 from 72% to 96%. Includes prompt-injection defense and human-approved actions via a Gradio UI. Python OpenAI API FAISS Gradio
+**Repo:** [The-Retrievers-RAG-Agent](https://github.com/Lakhveer-singh/The-Retrievers-RAG-Agent)
+
 ### 📦 Supply Chain Analytics Dashboard
 Power BI dashboard analyzing product performance, profitability and seasonality across a supply chain dataset, used to recommend product-mix adjustments to maximize sales and profitability.
 `Power BI` `DAX`
